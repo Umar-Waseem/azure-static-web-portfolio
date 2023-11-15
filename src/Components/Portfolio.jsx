@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "DSA-Hacktober-Fest-2022",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "An open source repository with vast collection of DSA resources in multiple languages",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Chat Flutter Firebase",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A real time mobile chat application made to chat with anyone registered on the app.",
+    url: "https://github.com/Umar-Waseem/Chat-Flutter-Firebase",
   },
   {
-    title: "My Resume Site",
+    title: "Car Game Route Optimization",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A pygame car game route optimization to cover the whole track using genetic algorithm",
+    url: "https://github.com/Umar-Waseem/Car-Game-Route-Finder-Genetic-Algo",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Sorting Visualizer",
+    description: "A desktop application to help learn sorting algorithms by visualizing them",
+    url: "https://github.com/Umar-Waseem/Flutter-Sorting-Visualizer",
   },
 ];
 
